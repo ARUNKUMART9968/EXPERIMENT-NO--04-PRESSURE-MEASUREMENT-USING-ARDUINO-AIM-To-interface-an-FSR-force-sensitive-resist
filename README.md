@@ -76,7 +76,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 10.	Plot the graph for the output voltage vs the resistance 
 
 
-### PROGRAM 
+### PROGRAM  
+```
  *your roll no 212222040017
  * your name Arunkumar.T
  * department and year 1 st CSE
@@ -131,6 +132,7 @@ void loop()
   else digitalWrite(led6, LOW);
   
 }
+```
   
   
   
@@ -190,6 +192,7 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 
-### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
+### RESULTS :
+Arduino uno is interfaced with FSR and output values are indicated on a graph.
 ![af exercise 3](https://user-images.githubusercontent.com/121215794/236845308-2ccc7060-8c8d-4879-b9c3-36e3be34013e.jpg)
 
